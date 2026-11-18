@@ -30,4 +30,4 @@ let {
            variantClasses[variant],
           className,
         ]}
-/>
+></textarea>
